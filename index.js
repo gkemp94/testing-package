@@ -1,3 +1,3 @@
 module.exports = {
-  hello: 'World',
+  hello: 'World 2',
 }
